@@ -120,7 +120,7 @@ margin-right: 700px;
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 30px;
+    gap: 90px;
   }
 
   .whd{
@@ -135,6 +135,7 @@ margin-right: 700px;
 
   .third{
     background-color: black;
+    padding-left: 150px;
   }
   .lwla p{
     margin: 0;
@@ -143,5 +144,375 @@ margin-right: 700px;
 
   .tania .left img{
 
-    height: 400px;
+    height: 550px;
   }
+
+  .right p{
+    color: gray;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .right h1{
+    color: gray;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 13px;
+  }
+  .right button{
+    padding-top: 90px;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 40px;
+    background-color: inherit;
+    color: white;
+  }
+
+  .right button img{
+    
+    height: 15px;
+  }
+
+  .tania{
+    display: flex;
+    gap: 40px;
+   
+  }
+
+  .right{
+
+    padding-top: 105px;
+  }
+
+  .right .pip{
+    margin-bottom: 40px;
+   
+  }
+
+
+
+
+ .talta .left .pip{
+    margin-bottom: 40px;
+   
+  }
+
+  .talta .left{
+
+    padding-top: 215px;
+  }
+  
+  .talta{
+    display: flex;
+    gap: 220px;
+   
+  }
+
+
+
+
+
+.talta{
+    display: flex;
+}
+  .talta .right img{
+
+    height: 550px;
+    margin-right: 100px;
+  }
+
+  .talta .left p{
+    color: gray;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .talta .left h1{
+    color: gray;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 13px;
+  }
+  .talta .left button {
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 40px;
+    background: linear-gradient(to bottom, rgb(244, 73, 193), rgb(249, 142, 217));
+    color: white;
+  }
+  
+  .talta .left button img{
+    
+    height: 15px;
+  }
+
+.lwla p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    margin-bottom: 60px;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+  .rab .left img{
+
+    height: 550px;
+  }
+
+  .rab .right p{
+    color: gray;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .rab .right h1{
+    color: gray;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 13px;
+  }
+  .rab .right button{
+    padding-top: 90px;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 40px;
+    background-color: inherit;
+    color: white;
+  }
+
+  .rab .right button img{
+    
+    height: 15px;
+  }
+
+  .rab .tania{
+    display: flex;
+    gap: 40px;
+   
+  }
+
+  .rab .right{
+
+    padding-top: 225px;
+  }
+
+  .rab .right .pip{
+    margin-bottom: 40px;
+   
+  }
+  .rab{
+    display: flex;
+    gap: 40px;
+    padding-top: 120px;
+   
+  }
+
+
+
+
+
+  
+ .talta .left .pip{
+    margin-bottom: 40px;
+   
+  }
+
+  .talta .left{
+
+    padding-top: 325px;
+  }
+  
+  .talta{
+    display: flex;
+    gap: 220px;
+   
+  }
+
+
+
+
+
+.kham{
+    display: flex;
+}
+  .kham .right img{
+
+    height: 550px;
+  }
+
+  .kham .left p{
+    color: gray;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .kham .left h1{
+    color: gray;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 13px;
+  }
+  .kham .left button {
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 40px;
+    background: inherit;
+    color: white;
+  }
+  
+  .kham .left button img{
+    
+    height: 15px;
+  }
+
+
+  .kham .left .pip{
+    margin-bottom: 40px;
+   
+  }
+
+  .kham .left{
+
+    padding-top: 325px;
+  }
+  
+  .kham{
+    display: flex;
+    gap: 220px;
+    padding-right: 70px;
+   
+  }
+
+
+  .fourth{
+
+    background-color: black;
+
+   
+  }
+
+  .west
+  {
+    display: flex;
+    justify-content: center;
+    gap: 80px;
+    
+  }
+    .fourth .left{
+        height: 200px;
+        width: 500px;
+        padding-top: 200px;
+    }
+
+
+    .fourth .left p{
+       font-size: 40px;
+       color: gray;
+       font-family: Arial, Helvetica, sans-serif;
+    }
+    
+    .fourth .left h1{
+        
+        color: white;
+        font-family: Arial, Helvetica, sans-serif;
+     }
+
+
+
+.finally{
+    background-color: black;
+}
+
+.dkshi h1{
+    color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+.dkshi p{
+    color: gray;
+    margin: 0;
+}
+
+
+.dkshi{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and ( max-width:500px) {
+
+    .first{
+        background-color: black;
+        width: 1700px;
+        
+    }
+    body{
+        margin:  0;
+        padding: 0;
+    }
+    .head{
+    
+        display: flex;
+       justify-content: space-around;
+       align-items: center;
+        
+    
+    }
+    .head .lwl{
+    margin-right: 70px;
+    
+
+    }
+
+    .second{
+        width: 1680px;
+    }
+
+    .third{
+        width: 1530px;
+    }
+    .fourth{
+        width: 1530px;
+    }
+    .first2 h1{
+        color: gray;
+        font-size: 80px;
+        margin-top: 180px;
+        text-align: center;
+        margin-bottom: 120px;
+    }
+    .tani h1{
+        font-size: 72px;
+        font-family: Arial, sans-serif;
+        margin: 0;
+        
+    }
+
+    .head .lwl img{
+        height: 50px;
+    }
+    
+
+}
