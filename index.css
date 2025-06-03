@@ -54,3 +54,94 @@ margin-right: 700px;
     color: white;
     margin: 0;
 }
+.highlight {
+    color: white;
+}
+  .second{
+    background-color: black;
+
+  }
+
+.fo9{
+    display: flex;
+    padding-top: 120px ;
+    
+}
+
+  .fo9 p{
+    color: gray;
+    margin: 0;
+    font-size: 36px;
+    margin-left:160px ;
+    font-family: Arial, sans-serif;
+  }
+
+  .carre1{
+    background-color: gray;
+    height: 20px;
+    width: 20px;
+    margin-bottom: 2px;
+    
+
+  }
+  .carre2{
+    background-color: gray;
+    height: 20px;
+    width: 20px;
+    
+  }
+
+  .jouj h1
+  {
+    color: gray;
+    font-size: 60px;
+    font-family: Arial, sans-serif;
+  }
+  .fO{
+    display: flex;
+    gap: 20px;
+  }
+  
+  .carr{
+    display: flex;
+    gap: 1px;
+  }
+  .mi{
+    color: gray;
+    font-size: 30px;
+    font-family: Arial, sans-serif;
+  }
+  .tlata{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  .second1 .teht{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+  }
+
+  .whd{
+    margin-top: 4px;
+  }
+
+
+ 
+  .teht{
+    padding-bottom: 70px;
+  }
+
+  .third{
+    background-color: black;
+  }
+  .lwla p{
+    margin: 0;
+    color: gray;
+  }
+
+  .tania .left img{
+
+    height: 400px;
+  }
